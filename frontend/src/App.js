@@ -1,5 +1,5 @@
 import React from "react";
-import { Container, Row } from "reactstrap";
+import { Container } from "reactstrap";
 import "./styles/index.css";
 import Header from "./Components/Header";
 import EncryptCard from "./Components/EncryptCard.jsx";
